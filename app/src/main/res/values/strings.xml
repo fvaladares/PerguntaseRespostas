@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perguntas e Respostas</string>
+    <string name="question">Pergunta</string>
+    <string name="answer">Resposta</string>
+    <string name="register">Cadastrar</string>
+    <string name="play">Jogar</string>
+    <string name="show_answer">Exibir Resposta</string>
+    <string name="skip">Pular</string>
+    <string name="register_answers_questions">Cadastrar Perguntas e Respostas</string>
+</resources>
